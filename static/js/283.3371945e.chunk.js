@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkquote_router_v6_project=self.webpackChunkquote_router_v6_project||[]).push([[283],{283:function(e,r,t){t.r(r);var u=t(184);r.default=function(){return(0,u.jsx)("div",{children:(0,u.jsx)("h2",{children:"NotFound"})})}}}]);
+//# sourceMappingURL=283.3371945e.chunk.js.map
